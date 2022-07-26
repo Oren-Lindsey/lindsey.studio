@@ -135,9 +135,9 @@
   canonical="https://lindsey.studio/"
   openGraph={{
     type: 'website',
-    url: 'https://www.url.ie/a',
-    title: 'Open Graph Title',
-    description: 'Open Graph Description',
+    url: 'https://lindsey.studio',
+    title: 'Oren Lindsey',
+    description: 'Oren Lindsey - Fullstack web developer',
     images: [
       {
         url: 'https://lindsey.studio/Tree-1-dragged.jpg.webp',
@@ -159,8 +159,5 @@
     description: 'Oren Lindsey - Fullstack Web Developer',
     image: 'https://lindsey.studio/Tree-1-dragged.jpg.webp',
     imageAlt: 'Tree Image'
-  }}
-  facebook={{
-    appId: '1234567890'
   }}
 />
