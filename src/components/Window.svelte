@@ -76,7 +76,7 @@
             <p class="text-[#423f42] mb-2 mt-[-3px]">{title}</p>
         </div>
     </div>
-    <div id="content" class="break-words grid place-items-center p-2">
+    <div id="content" class="break-words grid place-items-center p-2 !cursor-auto">
         <slot />
     </div>
 </div>
